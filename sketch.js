@@ -10,14 +10,14 @@ const trabajos = [
         description: "Mockups para identidad de marca ficticia diseñada en Procesos y Prototipos I con la profesora Pamela Fuentes"
     },
     {
-        photo: "https://camila-calquin.github.io/Previa-trabajo-practico/img/kimono mini.webp",
-        title: "Infografía Kimono",
-        description: "Infografía de Proyecto III con la profesora Clarisa Menteguiaga, con recursos visuales hechos de manera análoga"
-    },
-    {
         photo: "https://camila-calquin.github.io/Previa-trabajo-practico/img/moddis mini.webp",
         title: "Moddis",
         description: "Trabajo grupal en Comunicación del proyecto de diseño con el profesor Felix Maldonado, ideación de nuevo producto para una marca, junto a storytelling"
+    },
+    {
+        photo: "https://camila-calquin.github.io/Previa-trabajo-practico/img/kimono mini.webp",
+        title: "Infografía Kimono",
+        description: "Infografía de Proyecto III con la profesora Clarisa Menteguiaga, con recursos visuales hechos de manera análoga"
     }
     ];
 const datos = [
