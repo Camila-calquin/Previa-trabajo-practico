@@ -1,21 +1,21 @@
 const trabajos = [
     {
-        photo: "https://picsum.photos/id/237/400/600",
+        photo: "https://camila-calquin.github.io/Previa-trabajo-practico/img/cápsula mini.webp",
         title: "Cápsula del tiempo",
         description: "Trabajo de Proyecto II con la profesora Gabriela Pradenas, contenedor de obajeto para conservar como cápsula del tiempo"
     },
     {
-        photo: "https://picsum.photos/id/237/400/600",
+        photo: "https://camila-calquin.github.io/Previa-trabajo-practico/img/floramor mini.webp",
         title: "Identidad Floramor",
         description: "Mockups para identidad de marca ficticia diseñada en Procesos y Prototipos I con la profesora Pamela Fuentes"
     },
     {
-        photo: "https://picsum.photos/id/237/400/600",
+        photo: "https://camila-calquin.github.io/Previa-trabajo-practico/img/kimono mini.webp",
         title: "Infografía Kimono",
         description: "Infografía de Proyecto III con la profesora Clarisa Menteguiaga, con recursos visuales hechos de manera análoga"
     },
     {
-        photo: "https://picsum.photos/id/237/400/600",
+        photo: "https://camila-calquin.github.io/Previa-trabajo-practico/img/moddis mini.webp",
         title: "Moddis",
         description: "Trabajo grupal en Comunicación del proyecto de diseño con el profesor Felix Maldonado, ideación de nuevo producto para una marca, junto a storytelling"
     }
