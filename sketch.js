@@ -1,6 +1,6 @@
 const trabajos = [
     {
-        photo: "https://camila-calquin.github.io/Previa-trabajo-practico/img/cápsula mini.webp",
+        photo: "https://camila-calquin.github.io/Previa-trabajo-practico/img/capsula mini.webp",
         title: "Cápsula del tiempo",
         description: "Trabajo de Proyecto II con la profesora Gabriela Pradenas, contenedor de obajeto para conservar como cápsula del tiempo"
     },
