@@ -6,8 +6,8 @@ body {
 
 body {
     font-family: "Nunito", monospace;
-    color: deeppink;
-    background: pink;
+    color: rgb(64, 0, 97);
+    background: rgb(226, 208, 246);
     text-align: center;
 }
 
